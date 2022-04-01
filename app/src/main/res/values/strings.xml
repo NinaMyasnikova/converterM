@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">converterM</string>
+    <string name="today">Сегодня:</string>
+    <string name="update">Обновлено:</string>
+    <string name="autoUpdate">Автообновление</string>
+    <string name="converter">Конвертор</string>
+</resources>
